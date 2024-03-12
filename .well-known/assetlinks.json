@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.hivetest",
+    "sha256_cert_fingerprints": ["5B:DB:5C:E1:DA:21:E8:5D:D3:A3:BF:07:D5:84:A9:7D:30:75:46:4A:B0:74:08:93:B1:3D:FD:4C:3D:63:42:83"]
+  }
+}]
